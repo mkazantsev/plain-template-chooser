@@ -24,3 +24,14 @@ table td.mark {
 	text-align: center;
 	font-size: 150%;
 }
+<<<<<<< HEAD
+=======
+
+.forkme {
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 0;
+}
+>>>>>>> gh-pages
